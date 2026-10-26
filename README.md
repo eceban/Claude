@@ -1,2 +1,2 @@
-# ChatGPT
-Website from ChatGPT
+# Claude
+Website with Claude
